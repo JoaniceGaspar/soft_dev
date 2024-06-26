@@ -1,16 +1,45 @@
-# im_software_developer
+<h1 align="center"> I'm Rich </h1>
 
-A new Flutter project.
+<p align="center">
+Flutter Project.
+</p>
 
-## Getting Started
+<p align="center">
+  <a href="#-tecnologies">Tecnologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-diagram">Diagram</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-license">License</a>
+</p>
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img alt="License" src="https://img.shields.io/static/v1?label=license&message=MIT&color=49AA26&labelColor=000000">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<br>
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+<p align="center">
+  <img alt=" I am Rich - Project" src=".github/preview_project_img.jpg" width="35%">
+</p>
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🚀 Tecnologies
+
+This project was developed with the following technologies:
+
+- Flutter
+- Dart
+- Git and Github
+- Android Studio
+- Diagram.net (draw.io)
+
+## 💻 Project
+
+I_am_Rich is a simple application that displays just a header with a centered title and an image in the center of the application.
+It was created with the aim of showing the use of Widgets that make up the basic structure of an application created in Flutter/Dart such as MaterialApp and Scafoold.
+
+## 🔖 Project Diagram
+<p align="center">
+  <img alt="Project Diagram" src=".github/preview_project_diagrm.png" width="70%">
+</p>
+
+You can view the project Diagram through [THIS LINK](https://app.diagrams.net/#HJoaniceGaspar%2Fiam_rich%2Fmain%2FI%20am%20rich#%7B%22pageId%22%3A%22A2E0x7AI6BWVsamxQEBP%22%7D).
+
