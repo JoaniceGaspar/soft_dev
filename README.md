@@ -38,7 +38,7 @@ It was created with the aim of showing the use of Widgets that make up the basic
 
 ## 🔖 Project Diagram
 <p align="center">
-  <img alt="Project Diagram" src=".github/preview_project_diagrm.png" width="70%">
+  <img alt="Project Diagram" src=".github/preview_project_diagram.png" width="70%">
 </p>
 
 You can view the project Diagram through [THIS LINK](https://app.diagrams.net/#HJoaniceGaspar%2Fiam_rich%2Fmain%2FI%20am%20rich#%7B%22pageId%22%3A%22A2E0x7AI6BWVsamxQEBP%22%7D).
