@@ -1,7 +1,7 @@
 <h1 align="center"> Flutter Project </h1>
 
 <p align="center">
-Flutter Project.
+I'm Software Developer.
 </p>
 
 <p align="center">
