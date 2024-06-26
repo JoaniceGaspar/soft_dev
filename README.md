@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Rich </h1>
+<h1 align="center"> Flutter Project </h1>
 
 <p align="center">
 Flutter Project.
@@ -33,7 +33,7 @@ This project was developed with the following technologies:
 
 ## 💻 Project
 
-I_am_Rich is a simple application that displays just a header with a centered title and an image in the center of the application.
+"Im Software Developer" is a simple application that displays just a header with a centered title and an image in the center of the application.
 It was created with the aim of showing the use of Widgets that make up the basic structure of an application created in Flutter/Dart such as MaterialApp and Scafoold.
 
 ## 🔖 Project Diagram
