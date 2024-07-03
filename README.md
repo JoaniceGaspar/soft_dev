@@ -34,7 +34,7 @@ This project was developed with the following technologies:
 ## 💻 Project
 
 "Im Software Developer" is a simple application that displays just a header with a centered title and an image in the center of the application.
-It was created with the aim of showing the use of Widgets that make up the basic structure of an application created in Flutter/Dart such as MaterialApp and Scafoold.
+It was created with the aim of showing the use of Widgets that make up the basic structure of an application created in Flutter/Dart such as MaterialApp and Scaffold..
 
 ## 🔖 Project Diagram
 <p align="center">
